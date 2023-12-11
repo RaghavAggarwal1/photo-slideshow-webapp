@@ -10,10 +10,6 @@ Features:
   - This was designed for the specific purpose of a photo booth where a fixed camera was taking photos and putting them on a laptop. This is completely optional. The app works standalone with smartphones
 - Dockerfile and Helm chart included for deployment to kubernetes
 
-## Project Structure
-
-<img src="http://img.youtube.com/vi/wqcg9w_Q0iA/mqdefault.jpg" alt="Watch the series" width="240" height="180" border="10" />
-
 ## How to install
 
 1. use the helm chart to deploy after making your necessary changes
