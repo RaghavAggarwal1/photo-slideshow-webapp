@@ -1,4 +1,4 @@
-# Full Stack Social Slideshow Photo Sharing App
+# LiveShow: Full Stack Social Slideshow Photo Sharing App
 
 This project contains all the code necessary to deploy a photo sharing party slideshow app.
 
